@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Rap07darling
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 🎮
+> escrito por *Rap_darling* 🖤
 
-<!---
-Rap07darling/Rap07darling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estudante do [Alura](https://www.alura.com.br) 🏫
+- Estudando linguagem Javascript 🤙
+
+
+
+
+  ![](https://media1.tenor.com/m/5uaFSipW-YQAAAAd/mono-six.gif)
+  
+
